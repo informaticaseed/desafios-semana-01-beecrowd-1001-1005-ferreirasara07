@@ -9,6 +9,11 @@ não esqueça de imprimir o fim de linha após o resultado, caso contrário,
 você receberá "Presentation Error".
 """
 
-# Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
+# A = int(input())
+B = int(input())
+
+X = A + B
+
+print(f"X = {X}")Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
