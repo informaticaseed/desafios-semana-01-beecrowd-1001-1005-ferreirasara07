@@ -18,8 +18,8 @@ exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla p
 # raio = float(input())
 
 pi = 3.14159
-area = pi * raio ** 2
+area = pi * (raio ** 2)
 
-print(f"A={area:.4f}")Link do problema: https://judge.beecrowd.com/pt/problems/view/1002
+print("A={:.4f}".format(area))
 
 # Escreva sua solução abaixo
