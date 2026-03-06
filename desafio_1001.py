@@ -9,11 +9,9 @@ não esqueça de imprimir o fim de linha após o resultado, caso contrário,
 você receberá "Presentation Error".
 """
 
-# A = int(A = int(input())
+A = int(input())
 B = int(input())
 
 X = A + B
 
-print(f"X = {X}")
-# Escreva sua solução abaixo
-
+print("X =", X)
